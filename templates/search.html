@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container">
+    
+    <h4>Showing Result for {{ current_search }}</h4>
+    <hr>
+    <div class="row text-center">
+      {% for d in dishes %}
+      <div class="col-xs-6 col-sm-3 dish_frame_all_diet" onclick="recipe('{{ d }}')" title = "{{ d }}">
+        <img src="{{ url_for('static', filename = 'image_dataset/' + d + ' indian food/Image_1.jpg') }}"  alt="{{ d }}" height="200px" width="100%" class="zoom" title = "{{ d }}">
+        <h4 title = "{{ d }}" style="text-transform: capitalize;">{{ d|truncate(18) }}</h4>
+        <!-- <br> -->
+      </div>
+      {% endfor %}
+      {% if no_record_found == True %}
+        <h4>Sorry, I don't have any <b><u>{{ current_search }}</u></b> dish in my record.</h4>
+        <center>
+            <img src="{{ url_for('static', filename = 'other images/no_data.jpeg') }}"  alt="no data found" height="200px" width="200px" title = "no data found" class = "dish_frame_all_diet" style="padding: 1%;">
+        </center>
+      {% endif %}
+    </div>
+
+</div>
+
+{% endblock %}

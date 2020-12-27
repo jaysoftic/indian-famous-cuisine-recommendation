@@ -1,2 +1,55 @@
-# indian-famous-cuisine-recommendation
-This project includes recipe and recommendation of indian famous cuisine using machine learning and flask web app
+# Indian Famous Cuisine Recommendation :india: 
+
+## Table of Content
+  * [Introduction](#introduction)
+  * [Demo](#demo)
+  * [Overview](#overview)
+  * [Technologies Used](#technologies-used)
+  * [Team](#team)
+  * [Credits](#credits)
+
+## Introduction
+This project is about **Indian Cuisine** here i have 255 famous indian dishes. When user click on dish they will get a recipe and recommendation for that particular dish.
+Here i have used youtube videos for cuisine recipe and i have build a machine learning model using cosine similarity for recommendation
+
+## Demo
+- I have deployed this on AWS Elastic Beanstalk platform
+Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elasticbeanstalk.com/](http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elasticbeanstalk.com/)
+
+ ![GIF](readme_resources/projectDemo.gif)
+
+## Overview
+- In this project i used indian food data set from kaggle you can get it [here](https://www.kaggle.com/nehaprabhavalkar/indian-food-101)
+- I analyse the data set and make it in shape that i help me to build a recommendation model
+- Here i use Cosine Similarity to build a recommendation model.
+- cosine similarity is nothing but a degree between two data points or two similar type of data
+- ![GIF](readme_resources/cosine_similarity.png)
+
+- I make web app using flask, javascript, bootstrap, css and HTML you can find all the files inside **Indian Cuisine Recommendation Web app** directory structure
+
+- Here i used [bing_image_downloader](https://pypi.org/project/bing-image-downloader/) to scrape and download all dishes images
+
+- Here i used [youtubesearchpython](https://pypi.org/project/youtube-search-python/) to get unique id of recipe vidoes from youtube. Later on i am showing it on front end side as embedded video.
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png" width=170>](https://scikit-learn.org/stable/)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=170>](https://pandas.pydata.org/)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/330px-NumPy_logo_2020.svg.png" width=170>](https://numpy.org/)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)[<img target="_blank" src="https://d1.awsstatic.com/icons/console_elasticbeanstalk_icon.0f7eb0140e1ef6c718d3f806beb7183d06756901.png" width=170>](https://aws.amazon.com/elasticbeanstalk/)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" width=170>](https://www.javascript.com/)
+
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/330px-Bootstrap_logo.svg.png" width=170>](https://getbootstrap.com/docs/3.4/)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width=170>]()[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width=170>]()
+
+## Team
+[![Jay Soni](static/other images/jaysoftic_brand.png)](https://in.linkedin.com/in/jaysoftic) |
+-|
+[Jay Soni](https://in.linkedin.com/in/jaysoftic) |)
+
+## Credits
+- Entire credits goes to My God
+- Cuisine Images credits goes to bing search engine
+- Cuisine Recipe credits goes to youtube
+
+## -----------------------------------------------------------
+- If you like my work and it helped you in anyway then please do star the repository it will motivate me to make more amazing projects
