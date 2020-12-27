@@ -43,7 +43,7 @@ Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elast
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/330px-Bootstrap_logo.svg.png" width=170>](https://getbootstrap.com/docs/3.4/)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width=170>]()[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width=170>]()
 
 ## Team
-[![Jay Soni]![GIF](static/other images/jaysoftic_brand.png)](https://in.linkedin.com/in/jaysoftic) |
+[![Jay Soni](https://avatars3.githubusercontent.com/u/49163967?s=400&u=be22bbe1409ff51991b04026f038c1373174a02a&v=4)](https://in.linkedin.com/in/jaysoftic) |
 -|
 [Jay Soni](https://in.linkedin.com/in/jaysoftic) |)
 
