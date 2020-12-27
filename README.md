@@ -24,7 +24,7 @@ Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elast
 - I analyse the data set and make it in shape that i help me to build a recommendation model
 - Here i use Cosine Similarity to build a recommendation model.
 - cosine similarity is nothing but a degree between two data points or two similar type of data
-- ![GIF](readme_resources/cosine_similarity.png)
+  ![GIF](readme_resources/cosine_similarity.png)
 
 - I make web app using flask, javascript, bootstrap, css and HTML you can find all the files inside **Indian Cuisine Recommendation Web app** directory structure
 
