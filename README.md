@@ -14,6 +14,7 @@ Here i have used youtube videos for cuisine recipe and i have build a machine le
 
 ## Demo
 - I have deployed this on AWS Elastic Beanstalk platform
+
 Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elasticbeanstalk.com/](http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elasticbeanstalk.com/)
 
  ![GIF](readme_resources/projectDemo.gif)
@@ -42,7 +43,7 @@ Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elast
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/330px-Bootstrap_logo.svg.png" width=170>](https://getbootstrap.com/docs/3.4/)[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width=170>]()[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width=170>]()
 
 ## Team
-[![Jay Soni](static/other images/jaysoftic_brand.png)](https://in.linkedin.com/in/jaysoftic) |
+[![Jay Soni](static/other\ images/jaysoftic_brand.png)](https://in.linkedin.com/in/jaysoftic) |
 -|
 [Jay Soni](https://in.linkedin.com/in/jaysoftic) |)
 
@@ -51,5 +52,5 @@ Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elast
 - Cuisine Images credits goes to bing search engine
 - Cuisine Recipe credits goes to youtube
 
-## -----------------------------------------------------------
-- If you like my work and it helped you in anyway then please do star the repository it will motivate me to make more amazing projects
+## 
+- If you like my work and it helped you in anyway then please do ⭐ the repository it will motivate me to make more amazing projects
