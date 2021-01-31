@@ -9,7 +9,7 @@
   * [Credits](#credits)
 
 ## Introduction
-This project is about **Indian Cuisine** here i have 255 famous indian dishes. When user will click on dish they will get a recipe and recommendation for that particular dish.
+This project is about **Indian Cuisine** here i have 255 famous indian dishes. When user will click on any dish they will get a recipe and recommendation for that particular dish.
 Here i have used youtube videos for cuisine recipe and i have build a machine learning model using cosine similarity for recommendation
 
 ## Demo
