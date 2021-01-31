@@ -9,7 +9,7 @@
   * [Credits](#credits)
 
 ## Introduction
-This project is about **Indian Cuisine** here i have 255 famous indian dishes. When user click on dish they will get a recipe and recommendation for that particular dish.
+This project is about **Indian Cuisine** here i have 255 famous indian dishes. When user will click on dish they will get a recipe and recommendation for that particular dish.
 Here i have used youtube videos for cuisine recipe and i have build a machine learning model using cosine similarity for recommendation
 
 ## Demo
@@ -20,17 +20,17 @@ Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elast
  ![GIF](readme_resources/projectDemo.gif)
 
 ## Overview
-- In this project i used indian food data set from kaggle you can get it [here](https://www.kaggle.com/nehaprabhavalkar/indian-food-101)
-- I analyse the data set and make it in shape that i help me to build a recommendation model
-- Here i use Cosine Similarity to build a recommendation model.
-- cosine similarity is nothing but a degree between two data points or two similar type of data
+- In this project i have used indian food data set from kaggle you can get it from [here](https://www.kaggle.com/nehaprabhavalkar/indian-food-101)
+- I have analyzed the data set and make it in shape that it help me to build a recommendation model
+- Here i have used Cosine Similarity to build a recommendation model.
+- Cosine similarity is nothing but a degree between two data points or two similar type of data
   ![GIF](readme_resources/cosine_similarity.png)
 
 - I made web app using flask, javascript, bootstrap, css and HTML you can find all the files inside directory of **Indian Cuisine Recommendation** Repository
 
-- Here i used [bing_image_downloader](https://pypi.org/project/bing-image-downloader/) to scrape and download all dishes images
+- Here i have used [bing_image_downloader](https://pypi.org/project/bing-image-downloader/) to scrape and download all dishes images
 
-- Here i used [youtubesearchpython](https://pypi.org/project/youtube-search-python/) to get unique id of recipe vidoes from youtube. Later on i am showing it on front end side as embedded video.
+- Here i have used [youtubesearchpython](https://pypi.org/project/youtube-search-python/) to get unique id of recipe vidoes from youtube which i have demonstrated at front end side as embedded video of recipe.
 
 ## Technologies Used
 
