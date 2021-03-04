@@ -15,7 +15,7 @@ Here i have used youtube videos for cuisine recipe and i have build a machine le
 ## Demo
 - I have deployed this on AWS Elastic Beanstalk platform
 
-Link: [http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elasticbeanstalk.com/](http://indianfamouscuisinerecommendation-env.eba-pcygs8dm.us-east-2.elasticbeanstalk.com/)
+Link: [http://indiancuisine.us-east-2.elasticbeanstalk.com/](http://indiancuisine.us-east-2.elasticbeanstalk.com/)
 
  ![GIF](readme_resources/projectDemo.gif)
 
