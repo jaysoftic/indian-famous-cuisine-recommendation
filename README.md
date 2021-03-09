@@ -26,7 +26,7 @@ Link: [http://indiancuisine.us-east-2.elasticbeanstalk.com/](http://indiancuisin
 - Cosine similarity is nothing but a degree between two data points or two similar type of data
   ![GIF](readme_resources/cosine_similarity.png)
 
-- I made web app using flask, javascript, bootstrap, css and HTML you can find all the files inside directory of **Indian Cuisine Recommendation** Repository
+- I made web app using flask, javascript, bootstrap, css and HTML you can find all the files inside this Repository
 
 - Here i have used [bing_image_downloader](https://pypi.org/project/bing-image-downloader/) to scrape and download all dishes images
 
